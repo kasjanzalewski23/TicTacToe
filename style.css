@@ -1,0 +1,11 @@
+.container{
+    width: 600px;
+    height: 600px;
+}
+.pole{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
